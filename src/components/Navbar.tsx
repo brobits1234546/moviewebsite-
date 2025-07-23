@@ -41,7 +41,7 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center space-x-2 group">
             <Film className={`w-8 h-8 ${isDark ? 'text-green-400' : 'text-green-600'} group-hover:scale-110 transition-transform`} />
             <span className={`text-xl font-bold ${isDark ? 'text-white' : 'text-gray-900'} group-hover:text-green-500 transition-colors`}>
-              CineVault
+             YAHMovies
             </span>
           </Link>
 
